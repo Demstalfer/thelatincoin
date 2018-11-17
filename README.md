@@ -4,6 +4,9 @@ LatinCoin integration/staging tree
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2017-2018 LatinCoin Developers
 
+
+Esta Moneda ya no Esta en Uso, use de manera de apredendizaje
+
 What is LatinCoin?
 ----------------
 
